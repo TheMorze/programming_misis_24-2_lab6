@@ -43,7 +43,7 @@ StrategyPatternLab6/
 
 ## Сборка и запуск
 
-```bash
+bash
 mkdir build
 cd build
 cmake ..
